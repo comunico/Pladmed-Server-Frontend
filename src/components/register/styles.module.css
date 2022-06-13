@@ -1,0 +1,27 @@
+.form {
+    padding: 5%;
+}
+
+.title {
+    justify-content: center;
+    display: flex;
+    font-weight: 400;
+}
+
+.controlBox {
+    margin-top: 5%;
+    padding: 6%;
+}
+
+.button {
+    margin-top: 5%;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.error {
+    color: red;
+    text-align: center;
+}

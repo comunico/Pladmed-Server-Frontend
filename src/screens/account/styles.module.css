@@ -1,0 +1,68 @@
+.mainContainer {
+    padding: 0% 0%;
+}
+
+.accountData {
+    padding: 0;
+    max-width: 800px;
+    background-color: white;
+    border-radius: 1%;
+    box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.75);
+    overflow: hidden;
+}
+
+.title {
+    justify-content: center;
+    display: flex;
+    font-weight: 400;
+    padding-bottom: 5%;
+}
+
+.form {
+    padding: 5%;
+    flex: 1;
+}
+
+.question {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.questionContainer {
+    display: flex;
+}
+
+.noProbes {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.registerProbe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    font-size: large;
+}
+
+.probeInfo {
+    padding: 1% 0;
+    display: flex;
+    align-items: center;
+}
+
+.group {
+    display: flex;
+    align-items: center;
+}
+
+.groupToken {
+    display: flex;
+    align-items: center;
+    color: blue;
+    cursor: pointer;
+}

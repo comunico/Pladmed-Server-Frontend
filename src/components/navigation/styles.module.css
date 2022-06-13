@@ -1,0 +1,23 @@
+.navbar {
+    padding: 1% 0;
+    background-color: #525252;
+}
+
+.brand {
+    padding-left: 5%;
+}
+
+.profile {
+    display: flex;
+    justify-self: right;
+    justify-content: right;
+    align-self: flex-end;
+    align-items: flex-end;
+    text-align: right;
+}
+
+@media (max-width: 576px) {
+    .options {
+        padding-left: 5%;
+    }
+}
