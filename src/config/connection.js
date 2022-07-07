@@ -1,1 +1,1 @@
-export const URL = "http://localhost:5000/"
+export const URL = "http://pladmed.ext.tupac.gob.ar:5000/"
